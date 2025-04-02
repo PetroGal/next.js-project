@@ -1,6 +1,6 @@
 import Link from "next/link.js"
 
-export default function Home() {
+export default function About() {
   console.log("Executing")
   return (
     <main>
